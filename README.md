@@ -46,13 +46,14 @@ The first complex of topics are _numbers_ and their direct usage.
 ## Organisational Aspects
 
 - each booklet contains approximately one _aspect_, like natural numbers or how to encode an image
-- each aspect must be _implemented_ with real, functional code -- functionality is demonstrated by tests
+- each aspect must be _implemented_ with real, functional code - functionality is demonstrated by tests
 - each booklet has its own _template repository_ anyone can fork or clone to get a starting point without a lot of boilerplate work
 - the template repository contains the final, finished example code, whose tests are passing in CI
-- readers may use whatever language they feel comfortable with, but the booklets utilize **primitive ** _C++-20_
-- (almost) no math, proofs, complexity analysis and other forms of boredome -- just code, try out something and see what works
-- booklets will cover both simple ideas, that don't work and better ideas that do -- if the simple idea does not work because of algorithmic complexity, it is of course noted _and demonstrated_
-- each booklet ends with workable code that shows how computational problems are solved in principle -- non of it is supposed to become production code, all aspects are educational
+- readers may use whatever language they feel comfortable with, but the booklets utilize **primitive** _C++-20_
+- (almost) no math, proofs, complexity analysis and other forms of boredome - just code, try out something and see what works
+- booklets will cover both simple ideas, that don't work and better ideas that do - if the simple idea does not work because of algorithmic complexity, it is of course noted _and demonstrated_
+- each booklet ends with workable code that shows how computational problems are solved in principle - non of it is supposed to become production code, all aspects are educational
+- the author is _not an expert_ on any subjects of the book - they are still researched
 
 ## About the Author
 
@@ -64,7 +65,7 @@ corresponding literature and papers.
 _You can't just play around with it_ and that's what's missing for me. Consuming a video about gravity and the way planets move
 is nice. Simulating, experimenting and playing with gravity with your personal, hand made physics engine is rewarding and fun.
 As long as I find interesting stuff to try out, I am inclined to fiddle with it. Sometimes it might result in an addition to this project.
-My name is Jonas Toth and I currently work as Embedded Software Engineer in the renewable energy sector in Germany.
+My name is Jonas Toth, I studied Applied Computer Science and wrote my [master thesis](https://github.com/JonasToth/depth-conversions/blob/master/docs/master-thesis-jonas-toth-compressed.pdf) in the area of computer vision. I am currently working as Embedded Software Engineer in the renewable energy sector in Germany.
 
 ## License
 
