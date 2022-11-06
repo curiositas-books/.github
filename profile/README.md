@@ -89,4 +89,4 @@ You may do anything with the code and text provided, but please keep it open and
 The books are sold for fair prices and make no use of DRM. It takes a lot of time and effort to create these works.
 I don't want to rely on an ad infested platform or publish only to DRM and device restricted media. Please do not exploit this.
 
-![CC](https://creativecommons.org/images/deed/cc_icon_white_x2.png) ![BY](https://creativecommons.org/images/deed/attribution_icon_white_x2.png) ![NC](https://creativecommons.org/images/deed/nc_white_x2.png)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
