@@ -1,5 +1,14 @@
 # Curiositas - Rediscovering the World of Computation
 
+<p align="center">
+  <a href="#motivation">Motivation</a> |
+  <a href="#topics">Topics</a> |
+  <a href="#project-guidelines">Project Guidelines</a> |
+  <a href="#about-the-author">Author</a>
+</p>
+
+## Motivation
+
 Placing an earthling from the year 1600 into our todays world must feel like a journey
 through Hogwarts!
 Our personal assistent weighs about 500 gramm, contains a complete map of the whole planet,
@@ -19,7 +28,7 @@ breaks down a lot and once updated, might not work at all. _Why?_ And even being
 that software works it is not clear _how Google Maps finds a route from A to B_.
 
 **Curiositas** is a project in the spirit of just **exploring** the space of _How Software Works_.
-The goal is to write a _network of booklets_, that each take a shot of one aspect in the world
+The goal is to write a _network of books_, that each take a shot of one aspect in the world
 of computation and _implements_ enough of it, so that it is not magic anymore.
 
 The network aspect maps to the dependencies that exist in the real world. One can not find
@@ -33,26 +42,32 @@ algorithms and datastructures. _C++_ provides a good and generic set of function
 used as starting point. Only the STL of _C++_ is assumed to exist and no external libraries
 are used otherwise.
 
-## From Numbers to Applications
+## Topics
 
-The first complex of topics are _numbers_ and their direct usage.
+The scope of the project is not limited to a specific area, not even to computer science.
+As long as it has something to do with computation it is in theory "in scope".
+Of course, not all things of the universe that have something to do with computation are adressed.
 
-- [How to represent and calculate with _Natural Numbers_ (0, 1, 2, ...) of arbitrary magnitude](), [Code Repo]()
+### From Numbers to Applications
+
+The first complex of topics are _numbers_ and their direct applications.
+
+- [Bring Your Own Int]() - How to turn bits into numbers and calculate with them [Code Repo](https://github.com/curiositas-books/bring-your-own-int)
 - [When Mathematicians Refactor - a bit of Algebra and Generic Code to build upon](), [Code Repo]()
 - [Modular Arithmetic](), [Code Repo]()
 - [Sending Secrets to Strangers - RSA encryption](), [Code Repo]()
 - [Publicly Exchanging a Secret with full Confidentiality - Diffie-Hellman Key Exchange](), [Code Repo]()
 
-## Organisational Aspects
+## Project Guidelines
 
-- each booklet contains approximately one _aspect_, like natural numbers or how to encode an image
+- each book contains approximately one _aspect_, like natural numbers or how to encode an image
 - each aspect must be _implemented_ with real, functional code - functionality is demonstrated by tests
-- each booklet has its own _template repository_ anyone can fork or clone to get a starting point without a lot of boilerplate work
+- each book has its own _template repository_ anyone can fork or clone to get a starting point without a lot of boilerplate work
 - the template repository contains the final, finished example code, whose tests are passing in CI
-- readers may use whatever language they feel comfortable with, but the booklets utilize **primitive** _C++-20_
+- readers may use whatever language they feel comfortable with, but the books utilize **primitive** _C++-20_
 - (almost) no math, proofs, complexity analysis and other forms of boredome - just code, try out something and see what works
-- booklets will cover both simple ideas, that don't work and better ideas that do - if the simple idea does not work because of algorithmic complexity, it is of course noted _and demonstrated_
-- each booklet ends with workable code that shows how computational problems are solved in principle - non of it is supposed to become production code, all aspects are educational
+- books will cover both simple ideas, that don't work and better ideas that do - if the simple idea does not work because of algorithmic complexity, it is of course noted _and demonstrated_
+- each book ends with workable code that shows how computational problems are solved in principle - non of it is supposed to become production code, all aspects are educational
 - the author is _not an expert_ on any subjects of the book - they are still researched
 
 ## About the Author
@@ -71,7 +86,7 @@ My name is Jonas Toth, I studied Applied Computer Science and wrote my [master t
 
 This project and all its works are under [Creative Commons CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
 You may do anything with the code and text provided, but please keep it open and please don't make any money from it.
-The booklets are sold for fair prices and make no use of DRM. It takes a lot of time and effort to create these works.
+The books are sold for fair prices and make no use of DRM. It takes a lot of time and effort to create these works.
 I don't want to rely on an ad infested platform or publish only to DRM and device restricted media. Please do not exploit this.
 
 ![CC](https://creativecommons.org/images/deed/cc_icon_white_x2.png) ![BY](https://creativecommons.org/images/deed/attribution_icon_white_x2.png) ![NC](https://creativecommons.org/images/deed/nc_white_x2.png)
