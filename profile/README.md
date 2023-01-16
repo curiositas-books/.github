@@ -52,11 +52,11 @@ Of course, not all things of the universe that have something to do with computa
 
 The first complex of topics are _numbers_ and their direct applications.
 
-- [Bring Your Own Int]() - How to turn bits into numbers and calculate with them [Code Repo](https://github.com/curiositas-books/bring-your-own-int)
-- [When Mathematicians Refactor - a bit of Algebra and Generic Code to build upon](), [Code Repo]()
-- [Modular Arithmetic](), [Code Repo]()
-- [Sending Secrets to Strangers - RSA encryption](), [Code Repo]()
-- [Publicly Exchanging a Secret with full Confidentiality - Diffie-Hellman Key Exchange](), [Code Repo]()
+- [Bring Your Own Int](https://curiositasbooks.gumroad.com/l/build-your-own-int) - How to turn bits into numbers and calculate with them [Code Repo](https://github.com/curiositas-books/bring-your-own-int)
+- [In Progress: When Mathematicians Refactor - a bit of Algebra and Generic Code to build upon](), [Code Repo]()
+- [In Progress: Modular Arithmetic](), [Code Repo]()
+- [In Progress: Sending Secrets to Strangers - RSA encryption](), [Code Repo]()
+- [In Progress: Publicly Exchanging a Secret with full Confidentiality - Diffie-Hellman Key Exchange](), [Code Repo]()
 
 ## Project Guidelines
 
@@ -80,7 +80,7 @@ corresponding literature and papers.
 _You can't just play around with it_ and that's what's missing for me. Consuming a video about gravity and the way planets move
 is nice. Simulating, experimenting and playing with gravity with your personal, hand made physics engine is rewarding and fun.
 As long as I find interesting stuff to try out, I am inclined to fiddle with it. Sometimes it might result in an addition to this project.
-My name is Jonas Toth, I studied Applied Computer Science and wrote my [master thesis](https://github.com/JonasToth/depth-conversions/blob/master/docs/master-thesis-jonas-toth-compressed.pdf) in the area of computer vision. I am currently working as Embedded Software Engineer in the renewable energy sector in Germany.
+My name is Jonas Toth, I studied Applied Computer Science and wrote my in computer vision. I am currently working as Embedded Software Engineer in the renewable energy sector in Germany.
 
 ## License
 
