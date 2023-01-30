@@ -52,11 +52,11 @@ Of course, not all things of the universe that have something to do with computa
 
 The first complex of topics are _numbers_ and their direct applications.
 
-- [Bring Your Own Int](https://curiositasbooks.gumroad.com/l/build-your-own-int) - How to turn bits into numbers and calculate with them [Code Repo](https://github.com/curiositas-books/bring-your-own-int)
-- [In Progress: When Mathematicians Refactor - a bit of Algebra and Generic Code to build upon](), [Code Repo]()
-- [In Progress: Modular Arithmetic](), [Code Repo]()
-- [In Progress: Sending Secrets to Strangers - RSA encryption](), [Code Repo]()
-- [In Progress: Publicly Exchanging a Secret with full Confidentiality - Diffie-Hellman Key Exchange](), [Code Repo]()
+- [Bring Your Own Int](https://curiositasbooks.gumroad.com/l/build-your-own-int) - How to turn bits into numbers and calculate with them | [Code Repo](https://github.com/curiositas-books/bring-your-own-int)
+- [In Progress: When Mathematicians Refactor - a bit of Algebra and Generic Code to build upon]() - Generalize mathematical algorithms in code | [Code Repo]()
+- [In Progress: Modular Arithmetic]() - Implement Modular Arithmetic as Foundation for RSA | [Code Repo]()
+- [In Progress: Sending Secrets to Strangers - RSA encryption]() - Implement Basic RSA Encryption without Key Generation | [Code Repo]()
+- [In Progress: Publicly Exchanging a Secret with full Confidentiality - Diffie-Hellman Key Exchange]() - Implement Diffie-Hellman for RSA | [Code Repo]()
 
 ## Project Guidelines
 
