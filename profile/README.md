@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="#motivation">Motivation</a> |
+  <a href="#books">Get the Books</a> |
   <a href="#topics">Topics</a> |
   <a href="#project-guidelines">Project Guidelines</a> |
   <a href="#about-the-author">Author</a>
@@ -42,6 +43,14 @@ algorithms and datastructures. _C++_ provides a good and generic set of function
 used as starting point. Only the STL of _C++_ is assumed to exist and no external libraries
 are used otherwise.
 
+## Get the Books
+
+The books are published as e-books and sold for a small payment. Multiple
+topically related books may be sold in bundles.
+<p align="center">
+    <a href="https://curiositasbooks.gumroad.com">Gumroad</a>
+</p>
+
 ## Topics
 
 The scope of the project is not limited to a specific area, not even to computer science.
@@ -53,8 +62,7 @@ Of course, not all things of the universe that have something to do with computa
 The first complex of topics are _numbers_ and their direct applications.
 
 - [Bring Your Own Int](https://curiositasbooks.gumroad.com/l/build-your-own-int) - How to turn bits into numbers and calculate with them | [Code Repo](https://github.com/curiositas-books/bring-your-own-int)
-- [In Progress: When Mathematicians Refactor - a bit of Algebra and Generic Code to build upon]() - Generalize mathematical algorithms in code | [Code Repo]()
-- [In Progress: Modular Arithmetic]() - Implement Modular Arithmetic as Foundation for RSA | [Code Repo]()
+- [In Progress: Hashing data]() - Foundation for cryptographic signing are hash functions. Having a few hash functions greatly helps with applying RSA cryptography. | [Code Repo]()
 - [In Progress: Sending Secrets to Strangers - RSA encryption]() - Implement Basic RSA Encryption without Key Generation | [Code Repo]()
 - [In Progress: Publicly Exchanging a Secret with full Confidentiality - Diffie-Hellman Key Exchange]() - Implement Diffie-Hellman for RSA | [Code Repo]()
 
@@ -72,9 +80,9 @@ The first complex of topics are _numbers_ and their direct applications.
 
 ## About the Author
 
-All results of the natural sciences always fascinated me (except chemistry, I don't like chemistry :D). The way things evolve
+All results of the natural sciences always fascinated me. The way things evolve
 in the universe, the interdependencies of live on our planet and the fact that it is even possible to build the Large Hadron Collider
-sparke a light in me. I want to understand more of it! Humanities current publishing methods are astonishing and you can
+sparke a light in me. I want to understand more of it! Humankinds current publishing methods are astonishing and you can
 find all relevant information to all unanswered questions as videos on YouTube, as articles on Wikipedia or PDFs for the
 corresponding literature and papers.
 _You can't just play around with it_ and that's what's missing for me. Consuming a video about gravity and the way planets move
@@ -84,7 +92,7 @@ My name is Jonas Toth, I studied Applied Computer Science and wrote my in comput
 
 ## License
 
-This project and all its works are under [Creative Commons CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+This project and all its works are under [Creative Commons CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license unless otherwise noted.
 You may do anything with the code and text provided, but please keep it open and please don't make any money from it.
 The books are sold for fair prices and make no use of DRM. It takes a lot of time and effort to create these works.
 I don't want to rely on an ad infested platform or publish only to DRM and device restricted media. Please do not exploit this.
